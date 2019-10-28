@@ -1,0 +1,4 @@
+train knn clasifier to recognize up to 4 persons or objects
+this demonstrain the abilty to train models on the fly
+train every  class with minimum off 10  images and the model
+will recognize it
